@@ -2,7 +2,7 @@
 var x = 360;
 var y = 360;
 var xspeed = 90;
-var yspeed = 20;
+var yspeed = 25;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
